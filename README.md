@@ -45,7 +45,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Cristhian-S1/Cristhian-S1/output/snake.svg" alt="Snake animation" />
-
-###
