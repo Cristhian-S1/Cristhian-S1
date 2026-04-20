@@ -1,10 +1,6 @@
-<br clear="both">
-
 <h4 align="left">Hola 👋, soy Cristhian Sánchez</h4>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -40,8 +36,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <a href="https://www.youtube.com/@crisuz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="40" alt="youtube logo"  />
@@ -56,8 +50,6 @@
 
 ###
 
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cristhian-S1/Cristhian-S1/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cristhian-S1/Cristhian-S1/output/pacman-contribution-graph.svg">
@@ -66,15 +58,11 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/3840px-Arch_Linux_%22Crystal%22_icon.svg.png"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=2992c6"  />
